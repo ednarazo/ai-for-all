@@ -12,3 +12,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 >>>>>>> 9f95a17 (Primer commit: Configuración inicial del proyecto React con chatbot emocional)
 # ai-for-all
+# ai-for-all
